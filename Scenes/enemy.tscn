@@ -1,0 +1,22 @@
+[gd_scene load_steps=4 format=3 uid="uid://q5jjq55c2u3w"]
+
+[ext_resource type="Script" uid="uid://cpecgrais1gbv" path="res://Scripts/enemy.gd" id="1_1f0kj"]
+[ext_resource type="PackedScene" uid="uid://ogik4s70pgwl" path="res://Scenes/ball.tscn" id="2_afpow"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_u8nqw"]
+radius = 30.0
+
+[node name="Enemy" type="CharacterBody2D"]
+rotation = 0.0111803
+scale = Vector2(0.4, 0.4)
+collision_layer = 2
+collision_mask = 3
+script = ExtResource("1_1f0kj")
+
+[node name="Slime" parent="." instance=ExtResource("2_afpow")]
+position = Vector2(0, -21)
+scale = Vector2(0.5, 0.5)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-0.559003, -49.9969)
+shape = SubResource("CircleShape2D_u8nqw")
