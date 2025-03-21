@@ -1,10 +1,10 @@
 [gd_scene load_steps=4 format=3 uid="uid://qwjagetdjg67"]
 
 [ext_resource type="Script" uid="uid://deih1uc7toxo4" path="res://Scripts/gun.gd" id="1_oqrbh"]
-[ext_resource type="Texture2D" uid="uid://dbg4j63w7dgon" path="res://Assets/pistol/Pistol-3.png" id="2_oqrbh"]
+[ext_resource type="Texture2D" uid="uid://dbg4j63w7dgon" path="res://Assets/Weapon/Pistol-3.png" id="2_oqrbh"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_k4teu"]
-radius = 139.058
+radius = 183.003
 
 [node name="Gun" type="Area2D"]
 position = Vector2(8, 22)

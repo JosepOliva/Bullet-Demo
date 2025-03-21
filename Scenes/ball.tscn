@@ -1,8 +1,8 @@
 [gd_scene load_steps=9 format=3 uid="uid://ogik4s70pgwl"]
 
 [ext_resource type="Script" uid="uid://bbjgrr6e4tk7t" path="res://Scripts/ball.gd" id="1_87y5x"]
-[ext_resource type="Texture2D" uid="uid://b7rhtttevhxtj" path="res://effects/ground_shadow.png" id="1_cq7ej"]
-[ext_resource type="Texture2D" uid="uid://tq8tfpeeha7h" path="res://Assets/characters/Ball/expresionless.png" id="7_vblni"]
+[ext_resource type="Texture2D" uid="uid://b7rhtttevhxtj" path="res://Effects/ground_shadow.png" id="1_cq7ej"]
+[ext_resource type="Texture2D" uid="uid://tq8tfpeeha7h" path="res://Assets/Characters/Ball/expresionless.png" id="7_vblni"]
 
 [sub_resource type="Animation" id="Animation_vblni"]
 resource_name = "Hurt"

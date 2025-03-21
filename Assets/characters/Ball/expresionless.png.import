@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tq8tfpeeha7h"
-path="res://.godot/imported/expresionless.png-d1bd77ba68a0eda71c6003e289b4fce8.ctex"
+path="res://.godot/imported/expresionless.png-66a0829fa0e99583c3b98b60e4a8e2c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/characters/Ball/expresionless.png"
-dest_files=["res://.godot/imported/expresionless.png-d1bd77ba68a0eda71c6003e289b4fce8.ctex"]
+source_file="res://Assets/Characters/Ball/expresionless.png"
+dest_files=["res://.godot/imported/expresionless.png-66a0829fa0e99583c3b98b60e4a8e2c2.ctex"]
 
 [params]
 

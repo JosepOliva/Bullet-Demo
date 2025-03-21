@@ -74,7 +74,7 @@ Settings/Show_Tooltips=true
 
 [application]
 
-config/name="Bullet Game"
+config/name="Demo1"
 run/main_scene="uid://b3ue2m3023b5l"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.png"

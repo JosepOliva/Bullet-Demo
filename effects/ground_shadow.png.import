@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7rhtttevhxtj"
-path="res://.godot/imported/ground_shadow.png-e59925c1fc8fe570b9c7763b3d9b7e05.ctex"
+path="res://.godot/imported/ground_shadow.png-15545b62d7d165120355f1181c16ad95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://effects/ground_shadow.png"
-dest_files=["res://.godot/imported/ground_shadow.png-e59925c1fc8fe570b9c7763b3d9b7e05.ctex"]
+source_file="res://Effects/ground_shadow.png"
+dest_files=["res://.godot/imported/ground_shadow.png-15545b62d7d165120355f1181c16ad95.ctex"]
 
 [params]
 
