@@ -1,4 +1,4 @@
-# Bullet-Game
+#Demo
  Este proyecto es una demo desarrollada en Godot Engine. Se trata de un shooter donde el jugador debe eliminar enemigos y evitar ser derrotado.
  
  Sistemas Implementados:
